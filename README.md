@@ -1,2 +1,2 @@
 # MyFirstProgram
-Learning to use GitHug
+Learning to use GitHub
